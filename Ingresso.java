@@ -21,5 +21,8 @@ public class Ingresso{
     public Ingresso(float valor){
         this.valor = valor;
     }
+    public String getIngresso() {
+        return null;
+    }
 
 }
