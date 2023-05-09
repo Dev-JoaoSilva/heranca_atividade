@@ -19,4 +19,9 @@ public class IngressoVIP extends Ingresso{
 
     }
 
+    public String toString() {
+    
+        return "o valor total é: " +(valorAdicional+getValor());
+    }
+
 }
